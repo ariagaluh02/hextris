@@ -1,6 +1,6 @@
 FROM node:20-alpine
 
-WORKDIR /app
+WORKDIR /app-aria-hextris
 
 RUN npm install -g http-server
 
